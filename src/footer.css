@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FF3E6C;
+    padding: 40px 140px;
+}
+.footer-desc{
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}

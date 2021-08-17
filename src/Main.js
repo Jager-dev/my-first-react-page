@@ -3,7 +3,7 @@ import './main.css'
 
 const Main = () => {
   return (
-    <div>
+    <div className="section">
       <div>
         <div>
           <h1 className="main-title">Shop</h1>
