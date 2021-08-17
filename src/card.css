@@ -1,0 +1,19 @@
+.card{
+    width: 275px;
+    background: #FFFFFF;
+    border: 1px solid #FF3E6C;
+    box-sizing: border-box;
+    padding: 28px;
+    margin-top: 36px;
+    margin-left: 140px;
+}
+.card-title{
+    font-size: 18px;
+    line-height: 21px;
+    color: #FF3E6C;
+}
+.card-info{
+    font-size: 16px;
+    line-height: 19px;
+    color: #454545;
+}

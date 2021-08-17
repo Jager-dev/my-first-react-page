@@ -3,12 +3,15 @@ import Nav from "./Nav";
 import './header.css';
 
 
+
 const Header = () => {
   return (
-    <header className="header">
-      <Logo />
-      <Nav />
-    </header>
+    <div>
+      <header className="header">
+        <Logo />
+        <Nav />
+      </header>
+    </div>
   )
 }
 export default Header

@@ -1,0 +1,15 @@
+
+.main-title{
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+.main-info{
+    width: 630px;
+    font-size: 18px;
+    line-height: 21px;
+    color: #454545;
+    margin: 0 auto ;
+    text-align: center ;
+}

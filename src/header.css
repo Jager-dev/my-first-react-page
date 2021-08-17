@@ -1,3 +1,8 @@
+.container{
+    max-width: 1400px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
 .header{
     background: #FF3E6C;
     color: white;
@@ -5,6 +10,11 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 140px;
+}
+.shop{
+    background: #FF3E6C;
+    padding: 20px 0 ;
+
 }
 .nav{
 
