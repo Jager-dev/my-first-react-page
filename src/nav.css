@@ -1,0 +1,7 @@
+.nav-list{
+    display: flex;
+}
+.nav-list-item{
+    color: white;
+    margin-right: 30px;
+}
